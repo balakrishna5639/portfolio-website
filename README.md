@@ -109,10 +109,9 @@ A stunning, super interactive portfolio website with modern design, smooth anima
 
 ## 📞 Contact Information
 
-- **Email**: balakrishna.avaru@gmail.com
-- **Phone**: +91 8008848591
-- **GitHub**: @balakrishna-avaru
-- **LinkedIn**: Balakrishna Avaru
+- **Email**: balakrishnaavaru123@gmail.com
+- **Phone**: +91 9100885639
+
 
 ## 📝 License
 
@@ -121,3 +120,4 @@ A stunning, super interactive portfolio website with modern design, smooth anima
 ---
 
 Built with ❤️ and lots of ☕ by Balakrishna Avaru
+
