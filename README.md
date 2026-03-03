@@ -44,7 +44,7 @@ A stunning, super interactive portfolio website with modern design, smooth anima
 
 4. **Experience Section**
    - Timeline layout with animated dots
-   - WalkmTree Technologies (July 2025 - December 2025)
+   - Walkingtree Technologies (July 2025 - December 2025)
    - Surya Tech Technology (June 2024 - July 2024)
    - Tech stack badges
 
@@ -59,7 +59,7 @@ A stunning, super interactive portfolio website with modern design, smooth anima
    - Microsoft, Google Cloud, and NAASCOM certifications
 
 7. **Contact Section**
-   - Email, Phone, GitHub, LinkedIn
+   - Email, Phone, GitHub, LinkedIn, LeetCode
    - Interactive contact cards
    - Call-to-action button
 
@@ -111,7 +111,9 @@ A stunning, super interactive portfolio website with modern design, smooth anima
 
 - **Email**: balakrishnaavaru123@gmail.com
 - **Phone**: +91 9100885639
-
+- **GitHub**: [@balakrishna5639](https://github.com/balakrishna5639)
+- **LinkedIn**: [balakrishna123](https://linkedin.com/in/balakrishna123)
+- **LeetCode**: [balakrishna_avaru](https://leetcode.com/u/balakrishna_avaru/)
 
 ## 📝 License
 
@@ -120,4 +122,3 @@ A stunning, super interactive portfolio website with modern design, smooth anima
 ---
 
 Built with ❤️ and lots of ☕ by Balakrishna Avaru
-

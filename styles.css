@@ -526,7 +526,8 @@ body {
     }
 }
 
-.avatar {
+.avatar,
+.profile-photo {
     width: 250px;
     height: 250px;
     background: var(--gradient-primary);
@@ -540,6 +541,7 @@ body {
     position: relative;
     z-index: 2;
     animation: pulse 3s ease-in-out infinite;
+    object-fit: cover;
 }
 
 @keyframes pulse {
